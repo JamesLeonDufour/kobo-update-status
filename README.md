@@ -28,11 +28,8 @@ pip install requests pandas openpyxl
 ## Usage
 
 ### Setup
-1. Clone the repository or download the script:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
+1. Clone the repository or download the script
+
 2. Modify the following variables in the script:
    - `KF_URL`: Your KoboToolbox API URL (e.g., `https://KPI`).
    - `TOKEN`: Your KoboToolbox API token.
